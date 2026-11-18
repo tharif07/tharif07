@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Mohammad Tharif 👋
 
-<!--
-**tharif07/tharif07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Developer | CSE Graduate 2026
 
-Here are some ideas to get you started:
+I'm a Computer Science and Engineering graduate interested in building software applications and solving real-world problems through technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Skills
+- Programming: Python, JavaScript
+- Database:SQL
+- Web Development: HTML, CSS
+- Libraries:Pandas, NumPy (Basic)
+
+### 🎯 Currently Working On
+- Improving my Python and SQL skills
+- Practicing Data Structures and Algorithms
+- Building practical software development projects
+- Learning new technologies
+
+### 🤝 Connect With Me
+- LinkedIn:https://www.linkedin.com/in/tharifmohammad
+- GitHub:https://github.com/tharif07
+
+---
+
+⭐ Thanks for visiting my profile!
